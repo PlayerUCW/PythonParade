@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\bin\Debug\PythonParade.exe.config
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\bin\Debug\PythonParade.exe
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\bin\Debug\PythonParade.pdb
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.AppChoiceForm.resources
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.ProjectsForm.resources
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.Properties.Resources.resources
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.exe
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.pdb
+C:\Users\MSI\Desktop\Development\Test\ПМ2025_Проекты\PythonParade\PythonParade\PythonParade\obj\Debug\PythonParade.exe.config

@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Text.Json.Serialization;
+using System.Windows.Forms;
 
 namespace PythonParade
 {
-	enum ProjectStatus
+	public enum ProjectStatus
 	{
 		OK,
 		Updated,
@@ -11,19 +14,34 @@ namespace PythonParade
 	}
 
 	[Serializable]
-	class Project
+	public class Project
 	{
+		private static Dictionary<ProjectStatus, Color> _statusColors = new Dictionary<ProjectStatus, Color>
+		{
+			{ProjectStatus.OK, Color.DarkGreen},
+			{ProjectStatus.Updated, Color.DarkBlue},
+			{ProjectStatus.Invalid, Color.DarkRed}
+		};
+		private static Dictionary<ProjectStatus, string> _statusTexts = new Dictionary<ProjectStatus, string>
+		{
+			{ProjectStatus.OK, "ОК"},
+			{ProjectStatus.Updated, "На проверке"},
+			{ProjectStatus.Invalid, "Доработка"}
+		};
+
 		private string _name;
 		private string _description;
-		private string _githubLink;
-		private List<Student> _authors;
+		private string _gitHubLink;
+		[JsonInclude]
+		public List<Student> _authors = new List<Student>();
 		private ProjectStatus _status;
 		private string _issues;
+		private string _filename;
 
 		public string Name
 		{
 			get { return _name; }
-			private set
+			set
 			{
 				string name = value.Trim();
 				if (name == string.Empty) throw new ArgumentException("why project name empty");
@@ -33,19 +51,19 @@ namespace PythonParade
 
 		public string GitHubLink
 		{
-			get { return _githubLink; }
-			private set
+			get { return _gitHubLink; }
+			set
 			{
 				string link = value.Trim();
 				if (link == string.Empty) throw new ArgumentException("why github link empty");
-				_githubLink = link;
+				_gitHubLink = link;
 			}
 		}
 
 		public string Description
 		{
 			get { return _description; }
-			private set
+			set
 			{
 				_description = value;
 			}
@@ -60,9 +78,20 @@ namespace PythonParade
 		public string Issues
 		{
 			get { return _issues; }
-			private set
+			set
 			{
 				_issues = value;
+			}
+		}
+
+		public string Filename
+		{
+			get { return _filename; }
+			set
+			{
+				string filename = value.Trim();
+				if (filename == string.Empty) throw new ArgumentException("why filename empty");
+				_filename = filename;
 			}
 		}
 
@@ -76,11 +105,61 @@ namespace PythonParade
 			return true;
 		}
 
-		public Project(string name, string githubLink, string desc = "")
+		public Project(string name, string gitHubLink, string filename, string desc = "")
 		{
 			Name = name;
-			GitHubLink = githubLink;
+			GitHubLink = gitHubLink;
 			Description = desc;
+			Status = ProjectStatus.Updated;
+			Issues = "";
+			Filename = filename;
+		}
+
+		// jsonserializer is utterly horrible
+		[JsonConstructor]
+		public Project()
+		{
+
+		}
+
+		public string AuthorsText(FullNameFormat format = FullNameFormat.SurnameNamePatronym)
+		{
+			List<string> fullNames = new List<string>();
+			foreach (Student student in _authors)
+			{
+				if (student == null) continue;
+				fullNames.Add(student.GetFullName(format));
+			}
+			return string.Join("\n", fullNames);
+		}
+
+		public string StatusText()
+		{
+			return _statusTexts[Status];
+		}
+
+		public Color StatusColor()
+		{
+			return _statusColors[Status];
+		}
+
+		public ListViewItem GetListViewItem()
+		{
+			ListViewItem item = new ListViewItem();
+			item.Text = Name;
+			item.SubItems.Add(this.StatusText());
+			item.Tag = this;
+			return item;
+		}
+
+		public List<ListViewItem> GetAuthorsListViewItems()
+		{
+			List<ListViewItem> list = new List<ListViewItem>();
+			foreach (Student author in _authors)
+			{
+				list.Add(author.GetListViewItem());
+			}
+			return list;
 		}
 	}
 }

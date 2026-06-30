@@ -1,13 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace PythonParade
 {
-	internal static class Program
+	static class Program
 	{
+		static string _projectDirectoryFull = Directory.GetCurrentDirectory() + "\\Data\\Projects\\";
+
+		public static string ProjectDirectoryFull
+		{
+			get { return _projectDirectoryFull; }
+		}
 		/// <summary>
 		/// Главная точка входа для приложения.
 		/// </summary>
@@ -16,7 +20,8 @@ namespace PythonParade
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new AppChoiceForm());
+			//Application.Run(new AppChoiceForm());
+			Application.Run(new ProjectsForm());
 		}
 	}
 }

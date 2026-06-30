@@ -3,31 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|c:\\users\\msi\\desktop\\development\\test\\\u043F\u043C2025_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\pythonparade\\pythonparade\\pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA5650C5-47A3-4D9E-A9FD-32953D6C8BAC}|PythonParade\\PythonParade.csproj|solutionrelative:pythonparade\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Program.cs",
               "RelativeDocumentMoniker": "PythonParade\\Program.cs",
@@ -55,26 +63,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Student.cs",
               "RelativeDocumentMoniker": "PythonParade\\Student.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Student.cs",
               "RelativeToolTip": "PythonParade\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T12:31:07.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Project.cs",
               "RelativeDocumentMoniker": "PythonParade\\Project.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Project.cs",
               "RelativeToolTip": "PythonParade\\Project.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwFQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAJoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T15:53:29.609Z",
               "EditorCaption": ""
@@ -82,12 +90,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form1.cs",
+              "RelativeDocumentMoniker": "PythonParade\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form1.cs",
+              "RelativeToolTip": "PythonParade\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T06:28:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form2.cs",
               "RelativeDocumentMoniker": "PythonParade\\Form2.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form2.cs",
               "RelativeToolTip": "PythonParade\\Form2.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-20T08:42:13.93Z",
               "EditorCaption": ""
@@ -98,16 +119,28 @@
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs",
               "RelativeDocumentMoniker": "PythonParade\\Form3.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs",
-              "RelativeToolTip": "PythonParade\\Form3.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs*",
+              "RelativeToolTip": "PythonParade\\Form3.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T13:30:08.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form1.cs",
+              "RelativeDocumentMoniker": "PythonParade\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PythonParade\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T06:28:43.292Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form2.cs",
               "RelativeDocumentMoniker": "PythonParade\\Form2.cs",
@@ -119,12 +152,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs",
               "RelativeDocumentMoniker": "PythonParade\\Form3.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "PythonParade\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\Test\\\u041F\u041C2025_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\PythonParade\\PythonParade\\PythonParade\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "PythonParade\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T16:55:20.242Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
